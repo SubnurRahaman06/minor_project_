@@ -1,4 +1,4 @@
-#   **weekly project**
+#   ***weekly project***
 this project is basically my first mini-project given by #unlox academy 
 i used conditional statements and the numpy function
 it was fun doing this
