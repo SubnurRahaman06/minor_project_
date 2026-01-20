@@ -10,10 +10,10 @@ and the lowest marks a student got
 also the marks are stored in an array
 it is simple to use.
 
-# *tag stack*
+# *tech stack*
   *numpy
   *if/elif
-  operating functions
+  *operating functions
 
 
 author:Subnur
